@@ -1,7 +1,7 @@
 # Models : 
 This repository serves as a quick reference for understanding the machine learning models and system prompts used in the project. It provides a concise but detailed explanation of the key models, their functionalities, and how they contribute to the project’s goals.
 
-### AutoBar
+### AutoBar (Utilised as API for AutoBar function)
 AutoBar utilises watsonx API for foundation model infrencing. The model used is `granite-13b-chat-v2` with default `parameters` and following `<|system|> prompt`
 ```
 <|system|>
